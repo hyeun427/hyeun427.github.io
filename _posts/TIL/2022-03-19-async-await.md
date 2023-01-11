@@ -1,6 +1,6 @@
 ---
-title: "테스트 커밋"
-excerpt: "테스트 커밋"
+title: "Async-Await"
+excerpt: "async/await를 활용하는 법을 알아보자"
 
 categories: javascript
 tags: [javascript, async, await]

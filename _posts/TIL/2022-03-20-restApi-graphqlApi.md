@@ -1,9 +1,9 @@
 ---
-title: "테스트 커밋"
-excerpt: "테스트 커밋"
+title: "rest-api와 graphql-api란 무엇인가"
+excerpt: "rest와 graphql의 차이"
 
 categories: react
-tags: [javascript, react, import, export]
+tags: [react, rest-api, graphql-api]
 
 toc: true
 toc_sticky: true
