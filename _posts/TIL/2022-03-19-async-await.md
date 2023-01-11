@@ -3,7 +3,7 @@ title: "Async-Await"
 excerpt: "async/await를 활용하는 법을 알아보자"
 
 categories: javascript
-tags: [javascript, async, await]
+tags: [javascript, network, async, await]
 
 toc: true
 toc_sticky: true

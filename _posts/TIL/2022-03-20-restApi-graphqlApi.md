@@ -2,8 +2,8 @@
 title: "rest-api와 graphql-api란 무엇인가"
 excerpt: "rest와 graphql의 차이"
 
-categories: react
-tags: [react, rest-api, graphql-api]
+categories: network
+tags: [network, rest-api, graphql-api]
 
 toc: true
 toc_sticky: true
