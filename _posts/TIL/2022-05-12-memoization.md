@@ -3,7 +3,7 @@ title: "memoization"
 excerpt: "반복 사용되는 값을 저장해서 사용하자!"
 
 categories: react
-tags: react, memoization]
+tags: [react, memoization]
 
 toc: true
 toc_sticky: true

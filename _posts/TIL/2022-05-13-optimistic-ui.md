@@ -3,7 +3,7 @@ title: "optimistic-ui"
 excerpt: "사용자 경험을 높이면서 작업하면 훨씬 좋지!"
 
 categories: react
-tags: react, optimistic-ui]
+tags: [react, optimistic-ui]
 
 toc: true
 toc_sticky: true
