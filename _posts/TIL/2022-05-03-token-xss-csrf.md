@@ -3,7 +3,7 @@ title: "Token, XSS, CSRF"
 excerpt: "유저를 구별하자!"
 
 categories: network
-tags: network, Token, XSS, CSRF]
+tags: [network, Token, XSS, CSRF]
 
 toc: true
 toc_sticky: true

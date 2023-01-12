@@ -3,7 +3,7 @@ title: "flatten, unflatten"
 excerpt: "배열을 정리하자!"
 
 categories: javascript
-tags: javascript, flatten, unflatten]
+tags: [javascript, flatten, unflatten]
 
 toc: true
 toc_sticky: true

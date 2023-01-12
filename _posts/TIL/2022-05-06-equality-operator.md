@@ -3,7 +3,7 @@ title: "==과 ==="
 excerpt: "값은 같지만 타입은 다르다고?"
 
 categories: javascript
-tags: javascript, operator]
+tags: [javascript, operator]
 
 toc: true
 toc_sticky: true

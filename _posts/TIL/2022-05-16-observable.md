@@ -3,7 +3,7 @@ title: "observable"
 excerpt: "observable은 무엇인가"
 
 categories: RxJava
-tags: RxJava, observable]
+tags: [RxJava, observable]
 
 toc: true
 toc_sticky: true

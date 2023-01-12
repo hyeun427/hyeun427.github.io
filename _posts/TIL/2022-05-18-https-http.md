@@ -3,7 +3,7 @@ title: "https vs http"
 excerpt: "보안이 취약하다고?그렇다면!"
 
 categories: network
-tags: network, https, http]
+tags: [network, https, http]
 
 toc: true
 toc_sticky: true

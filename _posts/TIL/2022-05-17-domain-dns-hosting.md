@@ -3,7 +3,7 @@ title: "domain, DNS, hosting"
 excerpt: "domain, DNS, hosting의 개념을 알아보자"
 
 categories: network
-tags: network, domain, DNS, hosting]
+tags: [network, domain, DNS, hosting]
 
 toc: true
 toc_sticky: true
