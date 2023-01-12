@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name: "hyeun427"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/minglog.jpg"
   bio: "블로그 이사 중입니다!"
   location: "Seoul, Korea"
   email:
