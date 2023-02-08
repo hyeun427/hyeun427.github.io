@@ -56,7 +56,7 @@ comments:
 reCaptcha:
   siteKey:
   secret:
-atom_feed:
+atom_feed: #naver
   path: # blank (default) uses feed.xml
   hide: # true, false (default)
 search: # true, false (default)
@@ -105,7 +105,7 @@ analytics:
 author:
   name: "hyeun427"
   avatar: "/assets/images/minglog.jpg"
-  bio: "블로그 이사 중입니다!"
+  bio: "프론트엔드 개발하고 있습니다."
   location: "Seoul, Korea"
   email:
   links:

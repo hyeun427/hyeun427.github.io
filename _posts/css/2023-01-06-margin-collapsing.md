@@ -62,4 +62,4 @@ box1과 box2의 마진이 각각 30px임에도 결과물을 확인해보면 두 
 
 ---
 
-![참고](https://www.youtube.com/watch?v=c19Mjg-ivxc&ab_channel=%EB%B9%94%EC%BA%A0%ED%94%84CSS)
+[참고](https://www.youtube.com/watch?v=c19Mjg-ivxc&ab_channel=%EB%B9%94%EC%BA%A0%ED%94%84CSS)
