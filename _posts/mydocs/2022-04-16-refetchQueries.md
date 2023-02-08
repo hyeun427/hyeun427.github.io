@@ -1,9 +1,9 @@
 ---
-title: "[mydocs] retchQueries"
-excerpt: "retchQueries 정리해주마"
+title: "[mydocs] refetchQueries"
+excerpt: "refetchQueries 정리해주마"
 
 categories: mydocs
-tags: [retchQueries]
+tags: [refetchQueries]
 
 toc: true
 toc_sticky: true
