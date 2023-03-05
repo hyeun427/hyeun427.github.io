@@ -1,8 +1,8 @@
 ---
-title: "[mydocs] Next/Router 정리"
+title: "Next/Router 정리"
 excerpt: "Next/Router 사용법"
 
-categories: mydocs
+categories: react
 tags: [next, react, router]
 
 toc: true
